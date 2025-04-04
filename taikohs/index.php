@@ -12,8 +12,7 @@
     <title>Hitsound Previewer</title>
     <meta content="osu!taiko Hitsound Previewer" property="og:title" />
     <meta content="try it out NOW" property="og:description" />
-    <meta content="https://glassive.untone.uk/taikohs" property="og:url" />
-    <!-- <meta content="https://embed.com/embedimage.png" property="og:image" /> -->
+    <meta content="https://glassive.space/taikohs" property="og:url" />
     <meta content="#3DF5B1" data-react-helmet="true" name="theme-color" />
 </head>
 
@@ -45,8 +44,8 @@
 
     <footer>
         <div>
-            <i class="ph-fill ph-github-logo"></i>
-            <a href="https://github.com/glassive/taikohs" target="_blank">GitHub</a>
+            <img src="/upload/img/zeus.png">
+            <a href="/" target="_blank">Go back</a>
         </div>
 
         <div>
