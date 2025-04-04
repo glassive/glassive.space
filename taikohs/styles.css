@@ -373,6 +373,11 @@ footer {
     #colorReset i {
         font-size: 30px;
     }
+
+    img {
+        width: 32px;
+        height: 32px;
+    }
 }
 
 #colorReset, #keybindReset {
