@@ -1,0 +1,8 @@
+#ForceType application/octet-stream
+#Header set Content-Disposition attachment
+
+RewriteEngine On
+RewriteBase /upload/osu/
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.+)$ index.php [QSA,L]
