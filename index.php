@@ -15,11 +15,11 @@
                         <? include_once("views/zeus.php")?>
         
                         <div class="buttons">
-                                <div class="circle"><a href="/taikohs"><i class="ph ph-music-notes"></i></a></div>
-                                <div class="circle"><a target="_blank" rel="noopener noreferrer" href="https://x.com/glassive_"><i class="ph ph-twitter-logo"></i></a></div>
-                                <div class="circle"><a target="_blank" rel="noopener noreferrer" href="https://osu.ppy.sh/users/12453848"><i class="ph ph-circle"></i></a></div>
-                                <div class="circle"><a target="_blank" rel="noopener noreferrer" href="https://www.twitch.tv/glassive_"><i class="ph ph-twitch-logo"></i></a></div>
-                                <div class="circle"><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@glassive"><i class="ph ph-youtube-logo"></i></a></div>
+                                <a class="circle" href="/taikohs"><i class="ph ph-music-notes"></i></a>
+                                <a class="circle" target="_blank" rel="noopener noreferrer" href="https://x.com/glassive_"><i class="ph ph-twitter-logo"></i></a>
+                                <a class="circle" target="_blank" rel="noopener noreferrer" href="https://osu.ppy.sh/users/12453848"><i class="ph ph-circle"></i></a>
+                                <a class="circle" target="_blank" rel="noopener noreferrer" href="https://www.twitch.tv/glassive_"><i class="ph ph-twitch-logo"></i></a>
+                                <a class="circle" target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@glassive"><i class="ph ph-youtube-logo"></i></a>
                         </div>
                 </div>
 
