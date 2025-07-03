@@ -10,6 +10,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap" rel="stylesheet">
     <title>Hitsound Previewer</title>
+    <meta name="description" content="osu! taiko hitsound preview tool">
     <meta content="osu!taiko Hitsound Previewer" property="og:title" />
     <meta content="try it out NOW" property="og:description" />
     <meta content="https://glassive.space/taikohs" property="og:url" />
